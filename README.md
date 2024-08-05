@@ -51,5 +51,3 @@ assert_eq!(offered.deref(), &42);
 // this leaves nothing in the cell, and takes ownership of the data
 let data = offered.take();
 ```
-
-## [MIT LICENSE](./LICENSE.md)
