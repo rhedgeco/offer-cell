@@ -2,5 +2,10 @@
 name = "offer-cell"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "A rust library that defines a pattern for providing a reference to stored data, and optionally transferring ownership of that data."
+homepage = "https://github.com/rhedgeco/offer-cell"
+repository = "https://github.com/rhedgeco/offer-cell"
+readme = "./README.md"
 
 [dependencies]
