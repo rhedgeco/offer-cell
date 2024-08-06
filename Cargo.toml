@@ -1,6 +1,6 @@
 [package]
 name = "offer-cell"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT"
 description = "A rust library that defines a pattern for providing a reference to stored data, and optionally transferring ownership of that data."
